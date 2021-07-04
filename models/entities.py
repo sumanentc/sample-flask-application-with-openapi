@@ -8,7 +8,7 @@ class Item(db.Model):
     price = db.Column(db.Float(precision=2), nullable=False)
 
 
-    def __repr__(self):
+    def __str__(self):
         return 'ItemModel(id=%d,name=%s, price=%s,)' % (self.id,self.name, self.price)
 
     def json(self):

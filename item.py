@@ -1,8 +1,8 @@
 
 
 
-from models.repository import ItemRepo
-from models.schemas import ItemSchema
+from models.repositories import ItemRepo
+from schemas.schemas import ItemSchema
 from flask import request
 
 itemRepo = ItemRepo()
