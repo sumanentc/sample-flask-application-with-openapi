@@ -37,4 +37,4 @@ Swagger-UI can be used to test the application.
 
 The server will start at <http://localhost:5000/ui>.
 
-Please check my write-up for further details <https://dassum.medium.com/building-rest-apis-using-flask-restplus-sqlalchemy-marshmallow-cff76b202bfb>
+Please check my write-up for further details <https://dassum.medium.com/python-rest-apis-with-flask-connexion-and-sqlalchemy-3c8c3292d9ce>
